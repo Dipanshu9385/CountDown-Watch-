@@ -25,11 +25,13 @@
     align-items: center;
     flex-direction: column
 }
-
+.title strong{
+    font-size: 2.8rem;
+}
 .title {
     color: white;
-    font-size: 2.8rem;
-    font-weight: 500;
+    font-size: 2.4rem;
+    font-weight: 400;
 
 }
 .input{
@@ -51,8 +53,8 @@
     border: 0;
     outline: 0;
     margin-inline: 40px;
-    color: white;
+    color: rgb(210, 182, 20);
     font-size: 20px;
     text-align: center;
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
 }
