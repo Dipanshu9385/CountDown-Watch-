@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const endDate="30 Oct 2023 , 03:04 PM"
 document.getElementsByClassName('title')[1].innerHTML=endDate;
 const inputes=document.querySelectorAll('input')
@@ -39,3 +40,10 @@ setInterval(()=>{
 
 
    
+=======
+const button=document.querySelector('#btn');
+button.addEventListener('click',()=>{
+    alert("Hello");
+    // console.log("dfghj")
+})
+>>>>>>> form
